@@ -7,6 +7,10 @@ O projeto foi desenvolvido em aula do Explorer da Rocketseat
 * O conceito de Flexbox do CSS
 * Aplicação de alinhamento e espaçamento
 
+## Desafios 02 e 03
+* Corrigindo bugs (02)
+* Semântica e acessibilidade
+
 ## Links
 [Projeto](https://jonasncsantos.github.io/Projeto-02-Stage-02/)
 
